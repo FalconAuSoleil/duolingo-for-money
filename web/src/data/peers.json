@@ -1,0 +1,162 @@
+{
+ "months": [
+  "2025-10",
+  "2025-11",
+  "2025-12",
+  "2026-01",
+  "2026-02",
+  "2026-03",
+  "2026-04",
+  "2026-05",
+  "2026-06",
+  "2026-07",
+  "2026-08",
+  "2026-09"
+ ],
+ "bands": {
+  "18-25": {
+   "n": 471,
+   "spend": {
+    "Groceries": 261.16,
+    "Restaurants": 193.24,
+    "Transportation": 118.98,
+    "Utilities": 97.37,
+    "Entertainment": 135.25,
+    "Health": 23.4,
+    "Home & Tech": 111.17,
+    "Housing": 718.91,
+    "Lifestyle": 74.34,
+    "Travel": 24.99
+   },
+   "count": {
+    "Restaurants": 7.9,
+    "Groceries": 3.8,
+    "Transportation": 2.7
+   },
+   "totalSpend": 1827.27,
+   "salary": 1932.49,
+   "saveRate": 0.0,
+   "investShare": 0.246
+  },
+  "26-35": {
+   "n": 686,
+   "spend": {
+    "Groceries": 367.47,
+    "Restaurants": 158.93,
+    "Transportation": 164.04,
+    "Utilities": 114.29,
+    "Entertainment": 107.19,
+    "Health": 61.31,
+    "Home & Tech": 100.06,
+    "Housing": 812.1,
+    "Lifestyle": 125.38,
+    "Travel": 30.89
+   },
+   "count": {
+    "Restaurants": 6.7,
+    "Groceries": 5.2,
+    "Transportation": 3.6
+   },
+   "totalSpend": 2136.18,
+   "salary": 2317.84,
+   "saveRate": 0.0,
+   "investShare": 0.262
+  },
+  "36-45": {
+   "n": 1765,
+   "spend": {
+    "Groceries": 498.86,
+    "Restaurants": 187.49,
+    "Transportation": 221.31,
+    "Utilities": 158.01,
+    "Entertainment": 118.34,
+    "Health": 95.84,
+    "Home & Tech": 158.48,
+    "Housing": 1003.58,
+    "Lifestyle": 186.74,
+    "Travel": 75.87
+   },
+   "count": {
+    "Restaurants": 6.7,
+    "Groceries": 7.2,
+    "Transportation": 5.0
+   },
+   "totalSpend": 2855.99,
+   "salary": 3269.57,
+   "saveRate": 0.0,
+   "investShare": 0.283
+  },
+  "46-55": {
+   "n": 1609,
+   "spend": {
+    "Groceries": 520.93,
+    "Restaurants": 241.74,
+    "Transportation": 248.19,
+    "Utilities": 180.83,
+    "Entertainment": 136.43,
+    "Health": 93.56,
+    "Home & Tech": 215.87,
+    "Housing": 1130.66,
+    "Lifestyle": 183.04,
+    "Travel": 124.2
+   },
+   "count": {
+    "Restaurants": 6.2,
+    "Groceries": 7.5,
+    "Transportation": 5.5
+   },
+   "totalSpend": 3257.02,
+   "salary": 3709.83,
+   "saveRate": 0.0,
+   "investShare": 0.314
+  },
+  "56-65": {
+   "n": 304,
+   "spend": {
+    "Groceries": 511.13,
+    "Restaurants": 265.15,
+    "Transportation": 225.03,
+    "Utilities": 204.46,
+    "Entertainment": 134.41,
+    "Health": 100.47,
+    "Home & Tech": 225.65,
+    "Housing": 1205.75,
+    "Lifestyle": 163.5,
+    "Travel": 169.92
+   },
+   "count": {
+    "Restaurants": 5.8,
+    "Groceries": 7.4,
+    "Transportation": 5.0
+   },
+   "totalSpend": 3483.4,
+   "salary": 4331.91,
+   "saveRate": 0.0,
+   "investShare": 0.382
+  },
+  "66+": {
+   "n": 265,
+   "spend": {
+    "Groceries": 473.38,
+    "Restaurants": 71.45,
+    "Transportation": 109.72,
+    "Utilities": 123.86,
+    "Entertainment": 57.59,
+    "Health": 232.85,
+    "Home & Tech": 43.77,
+    "Housing": 853.84,
+    "Lifestyle": 112.23,
+    "Travel": 48.74
+   },
+   "count": {
+    "Restaurants": 3.3,
+    "Groceries": 6.7,
+    "Transportation": 2.4
+   },
+   "totalSpend": 2287.98,
+   "salary": 2440.74,
+   "saveRate": 0.0,
+   "investShare": 0.313
+  }
+ }
+}
